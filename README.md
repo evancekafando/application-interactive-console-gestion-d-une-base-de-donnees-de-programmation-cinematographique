@@ -1,4 +1,4 @@
-﻿## **Application Console: Gestion d'une Base de Données de Programmation Cinématographique - C/C++, OCILIB & PL/SQL
+﻿## Application Console: Gestion d'une Base de Données de Programmation Cinématographique - C/C++, OCILIB & PL/SQL
 **Bases de données relationnelles et réparties : C/C++, OCI & PL/SQL**
 
 **I.  Description générale**
