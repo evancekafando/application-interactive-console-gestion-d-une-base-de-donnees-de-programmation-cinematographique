@@ -1,0 +1,60 @@
+Acteur;Naissance;Pays;Film;Genre;Classement;Annee;Realisateur;Naissance;Pays
+Brad Pitt;18-dec-1963;Etats-Unis;Fight Club;Drame;R;1999;David Fincher;28-aug-1962;Etats-Unis
+Edward Norton;18-aug-1969;Etats-Unis;Fight Club;Drame;R;1999;David Fincher;28-aug-1962;Etats-Unis
+Jared Leto;26-dec-1971;Etats-Unis;Le Seigneur de guerre;Drame;13+;2005;Andrew Niccol;10-jun-1964;Nouvelle-Zelande
+Jared Leto;26-dec-1971;Etats-Unis;Fight Club;Drame;R;1999;David Fincher;28-aug-1962;Etats-Unis
+Brad Pitt;18-dec-1963;Etats-Unis;Mr. et Mrs. Smith;Action;;2005;Doug Liman;24-jul-1965;Etats-Unis
+Brad Pitt;18-dec-1963;Etats-Unis;Le Commando des batards;Guerre;13+;2009;Quentin Tarantino;27-mar-1963;Etats-Unis
+John Travolta;18-feb-1954;Etats-Unis;Fiction pulpeuse;Comedie noire;13+;1994;Quentin Tarantino;27-mar-1963;Etats-Unis
+John Travolta;18-feb-1954;Etats-Unis;Bons baisers de Paris;Action;;2010;Pierre Morel;12-may-1964;France
+Michael Fassbender;2-apr-1977;Allemagne;Le Commando des batards;Guerre;13+;2009;Quentin Tarantino;27-mar-1963;Etats-Unis
+Michael Fassbender;2-apr-1977;Allemagne;X-Men: Jours d'un avenir passe;Super heros;;2014;Bryan Singer;17-sep-1965;Etats-Unis
+Angelina Jolie;4-jun-1975;Etats-Unis;Mr. et Mrs. Smith;Action;;2005;Doug Liman;24-jul-1965;Etats-Unis
+Angelina Jolie;4-jun-1975;Etats-Unis;Lara Croft: Tomb Raider;Action;R;2003;Jan de Bont;22-oct-1943;Pays-Bas
+Tom Cruise;3-jul-1962;Etats-Unis;Minority Report;Science fiction;13+;2002;Steven Spielberg;18-dec-1946;Etats-Unis
+Roy Scheider;10-nov-1932;Etats-Unis;Les dents de la mer;Horreur;13+;1975;Steven Spielberg;18-dec-1946;Etats-Unis
+Harrison Ford;13-jul-1942;Etats-Unis;Les Aventuriers de l'arche perdue;Aventure;;1981;Steven Spielberg;18-dec-1946;Etats-Unis
+Harrison Ford;13-jul-1942;Etats-Unis;Star Wars, episode VII: Le reveil de la force;Science fiction;;2015;J. J. Abrams;27-jun-1966;Etats-Unis
+Chris Pine;26-aug-1980;Etats-Unis;Star Trek;Science fiction;;2009;J. J. Abrams;27-jun-1966;Etats-Unis
+Chris Pine;26-aug-1980;Etats-Unis;Star Trek: Vers les tenebres;Science fiction;;2013;J. J. Abrams;27-jun-1966;Etats-Unis
+Jeff Goldblum;22-oct-1952;Etats-Unis;La mouche;Horreur;13+;1986;David Cronenberg;15-mar-1943;Canada
+Jeff Goldblum;22-oct-1952;Etats-Unis;Le parc jurassique;Science fiction;PG;1993;Steven Spielberg;18-dec-1946;Etats-Unis
+Tom Cruise;3-jul-1962;Etats-Unis;Mission impossible: Protocole fantome;Action;;2002;Brad Bird;15-sep-1957;Etats-Unis
+Tom Cruise;3-jul-1962;Etats-Unis;Le dernier samourai;Epopee;;2003;Edward Zwick;8-oct-1952;Etats-Unis
+Jeremy Renner;7-jan-1971;Etats-Unis;Jason Bourne: L'heritage;Action;;2012;Tony Gilroy;11-nov-1956;Etats-Unis
+Jeremy Renner;7-jan-1971;Etats-Unis;Mission impossible: Protocole fantome;Action;;2002;Brad Bird;15-sep-1957;Etats-Unis
+Lea Seydoux;1-jul-1985;France;Mission impossible: Protocole fantome;Action;;2002;Brad Bird;15-sep-1957;Etats-Unis
+Lea Seydoux;1-jul-1985;France;Spectre;Espionnage;;2015;Sam Mendes;1-aug-1965;Angleterre
+Lea Seydoux;1-jul-1985;France;Le commando des batards;Guerre;13+;2009;Quentin Tarantino;27-mar-1963;Etats-Unis
+Daniel Craig;2-mar-1968;Angleterre;Spectre;Espionnage;;2015;Sam Mendes;1-aug-1965;Angleterre
+Daniel Craig;2-mar-1968;Angleterre;Skyfall;Espionnage;;2012;Sam Mendes;1-aug-1965;Angleterre
+Daniel Craig;2-mar-1968;Angleterre;Cowboys et envahisseurs;Science fiction;;2011;Jon Favreau;19-oct-1966;Etats-Unis
+Colin Farrell;31-may-1976;Irlande;Minority Report;Science fiction;13+;2002;Steven Spielberg;18-dec-1946;Etats-Unis
+Colin Farrell;31-may-1976;Irlande;Total Recall: memoires programmees;Science fiction;PG;2012;Len Wiseman;4-mar-1973;Etats-Unis
+Colin Farrell;31-may-1976;Irlande;Miami Vice: Deux flics a Miami;Action;;2006;Michael Mann;5-feb-1943;Etats-Unis
+Bruce Willis;19-mar-1955;Etats-Unis;Die Hard 4: Retour en enfer;Action;;2007;Len Wiseman;4-mar-1973;Etats-Unis
+Bruce Willis;19-mar-1955;Etats-Unis;Die Hard: Belle journee pour mourir;Action;;2013;John Moore;1-jan-1970;Irlande
+Bruce Willis;19-mar-1955;Etats-Unis;Le cinquieme element;Science fiction;PG;1997;Luc Besson;18-mar-1959;France
+Bruce Willis;19-mar-1955;Etats-Unis;Extraction;Action;;2015;Scott Mann;;Angleterre
+Jeffrey Dean Morgan;22-apr-1966;Etats-Unis;Extraction;Action;;2015;Scott Mann;;Angleterre
+Jeffrey Dean Morgan;22-apr-1966;Etats-Unis;Batman vs Superman: L'aube de la justice;Super heros;PG-13;2016;Zack Snyder;1-mar-1966;Etats-Unis
+Clint Eastwood;31-may-1930;Etats-Unis;Le bon, la brute et le truand;Western;PG;1966;Sergio Leone;3-jan-1929;Italie
+Clint Eastwood;31-may-1930;Etats-Unis;Gran Torino;Thriller;PG;2008;Clint Eastwood;31-may-1930;Etats-Unis
+Clint Eastwood;31-may-1930;Etats-Unis;Un monde parfait;Road movie;PG;1993;Clint Eastwood;31-may-1930;Etats-Unis
+Kevin Costner;18-jan-1955;Etats-Unis;Un monde parfait;Road movie;PG;1993;Clint Eastwood;31-may-1930;Etats-Unis
+Kevin Costner;18-jan-1955;Etats-Unis;L'homme d'acier;Fantastique;PG;2013;Zack Snyder;1-mar-1966;Etats-Unis
+Patrick Wilson;3-jul-1973;Etats-Unis;Les gardiens;Super heros;PG;2013;Zack Snyder;1-mar-1966;Etats-Unis
+Patrick Wilson;3-jul-1973;Etats-Unis;Bone Tomahawk;Western horrifique;13+;2015;Craig Zahler;23-jan-1973;Etats-Unis
+Kurt Russell;17-mar-1951;Etats-Unis;Bone Tomahawk;Western horrifique;13+;2015;Craig Zahler;23-jan-1973;Etats-Unis
+Kurt Russell;17-mar-1951;Etats-Unis;Les huit salopards;Western horrifique;13+;2015;Quentin Tarantino;27-mar-1963;Etats-Unis
+Michael Madsen;25-sep-1957;Etats-Unis;Les huit salopards;Western horrifique;13+;2015;Quentin Tarantino;27-mar-1963;Etats-Unis
+Michael Madsen;25-sep-1957;Etats-Unis;Reservoir Dogs;Film de gangsters;16+;1992;Quentin Tarantino;27-mar-1963;Etats-Unis
+Harvey Keitel;13-may-1939;Etats-Unis;Reservoir Dogs;Film de gangsters;16+;1992;Quentin Tarantino;27-mar-1963;Etats-Unis
+Harvey Keitel;13-may-1939;Etats-Unis;Une nuit en enfer;Horreur;13+;1996;Robert Rodriguez;20-jun-1968;Etats-Unis
+Antonio Banderas;10-aug-1960;Espagne;Desperado;Action;13+;1995;Robert Rodriguez;20-jun-1968;Etats-Unis
+Antonio Banderas;10-aug-1960;Espagne;La legende de Zorro;Aventure;PG;2005;Martin Campbell;24-oct-1943;Nouvelle-Zelande
+Daniel Craig;2-mar-1968;Angleterre;Casino Royale;Espionnage;PG;2006;Martin Campbell;24-oct-1943;Nouvelle-Zelande
+Lee Van Cleef;9-jan-1925;Etats-Unis;Le bon, la brute et le truand;Western;PG;1966;Sergio Leone;3-jan-1929;Italie
+Eli Wallach;7-dec-1915;Etats-Unis;Le bon, la brute et le truand;Western;PG;1966;Sergio Leone;3-jan-1929;Italie
+Liam Neeson;7-jun-1952;Angleterre;L'enlevement 3;Action;PG;2015;Olivier Megaton;6-aug-1965;France
+Liam Neeson;7-jun-1952;Angleterre;La liste de Schindler;Drame historique;;1993;Steven Spielberg;18-dec-1946;Etats-Unis
